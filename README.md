@@ -1,6 +1,11 @@
 # laptop-token-frontend
 Laptop Token ERC-20 Frontend
 
+### Features
+1. **Mint tokens** to increase their balance.
+2. **Burn tokens** to decrease their balance.
+3. **Check their token balance** directly from the blockchain.
+
 ## Getting Started
 This is an example of how you can set up this project locally. To get a local copy up and running, follow these steps.
 
