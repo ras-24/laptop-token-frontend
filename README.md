@@ -27,11 +27,11 @@ Make sure you have MetaMask balance on Arbitrum Sepolia Testnet Network.
    ```sh
    npm install
    ```
-4. On app directory, create ABI.json file that include your own ABI code from your smart contract deployment.
+4. On app directory, create **ABI.json** file that include your own **ABI code** from your smart contract deployment.
    ```sh
     [YOUR_ABI]
    ```
-5. On root directory, create .env.local file that include your deployed contract address.
+5. On root directory, create **.env.local** file that include your deployed **contract address**.
    ```sh
    NEXT_PUBLIC_CONTRACT_ADDRESS="YOUR_CONTRACT_ADDRESS"
    ```
